@@ -61,21 +61,6 @@ And put this link in your browser: http://localhost:4567
 
 _Example to use: https://parcialarep.herokuapp.com/calculator/calculate?number=1&operation=cos
 
-
-4. Generating the documentation:
-
-```
-mvn javadoc:javadoc
-```
-
-- [View Documentation Ubication](https://angiedanielar.github.io/PARCIAL1_AREP/apidocs)
-
-## Running the unit tests
-
-```
-mvn test
-```
-
 ## Built With
 
 - [Maven](https://maven.apache.org/) - Dependency Management
