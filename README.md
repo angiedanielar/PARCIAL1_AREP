@@ -4,6 +4,10 @@
 
 _Spark trigonometric calculator: program used to calculate the sine, cosine and tangent of a number that is in radians._
 
+- Second part: https://github.com/angiedanielar/PARCIAL1.2_AREP
+
+- Third part: https://github.com/angiedanielar/PARCIAL1.3_AREP
+
 ## Getting Started
 
 ### Prerequisites
